@@ -4,5 +4,5 @@
 * 24.03.12: KoHaHa 1.0 version upload
 
 ### KoHaHa 1.0
-* 264 korean humor dataset
+* 265 korean humor dataset
 
