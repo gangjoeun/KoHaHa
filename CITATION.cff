@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following:"
+title: "Your Project Title"
+authors:
+  - family-names: Kim
+    given-names: Hana
+    affiliation: Yonsei University
+    orcid: https://orcid.org/0000-0001-2345-6789
+date-released: 2025-04-15
+version: 1.0.0
+doi: 10.1234/zenodo.1234567
+url: https://github.com/your-username/your-repo
