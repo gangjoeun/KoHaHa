@@ -2,7 +2,7 @@
 'KoHaHa' is a Korean humor dataset. It is a name that expresses Korean humor by combining the Korean word 'Ko' with the onomatopoeia 'Haha', which means 'laugh out loud.'  :blush::smile:
 
 * 24.03.12: KoHaHa 1.0 version upload
-* 24.08.30: Can Generative Artificial Intelligence Train Humor? - Focusing on the KoHaHa Datase   
+* 24.08.30: Can Generative Artificial Intelligence Train Humor? - Focusing on the KoHaHa Dataset   
             [👉paper link👈](https://kiss.kstudy.com/Detail/Ar?key=4113479)   
 ### KoHaHa 1.0
 * 265 korean humor dataset
